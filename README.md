@@ -22,7 +22,7 @@
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
  <img style="margin: auto;" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt=c# width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt=python width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
