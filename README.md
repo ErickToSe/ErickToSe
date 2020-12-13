@@ -8,8 +8,7 @@
 &nbsp;
 
 
-<h3 align="center">I am a Computer Engineering Student</h3>
-<h3 align="center">at CUCEI UdG</h3>
+<h2 align="center">I am a Computer Engineering Student <br> at CUCEI UdG</h2>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ErickTose alt=sachinverma53121/></p>
 
 
