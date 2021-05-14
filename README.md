@@ -2,10 +2,9 @@
 
 <h2 align="center">I am a Computer Engineering Student <br> at CUCEI UdG</h2>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ErickTose alt=sachinverma53121/></p>
-
+<!--
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:torres.sebastian.erick@gmail.com)
-<!--
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](link)
 -->
 &nbsp;
