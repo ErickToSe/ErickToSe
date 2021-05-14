@@ -13,7 +13,7 @@
 <img width="50%" align="right" alt="Github Image" src="https://static.wikia.nocookie.net/animalrestaurant/images/f/fd/Programmer%27s_Dog.png/revision/latest/top-crop/width/360/height/450?cb=20200103104403" />
 
 
-- 🌱 I’m currently learning ... **WordPress**
+- 🌱 I’m currently learning ... **JavaScript**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Reading fantasy novels**❤
 - 📫 How to reach me **torres.sebastian.erick@gmail.com**
